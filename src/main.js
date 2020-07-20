@@ -1,6 +1,6 @@
 import '@babel/polyfill'
 import Vue from 'vue'
-import './plugins/vuetify'
+import '../src/plugins/vuetify'
 import App from './App'
 import store from './store'
 
